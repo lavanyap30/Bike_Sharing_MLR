@@ -1,4 +1,4 @@
-# Project Name
+# Bike Sharing System Using MLR
 > The project is meant to have a detailed investigation on bike sharing/rental. Based on the parameters like holiday, weekdays, season etc.. we try to analyse the rate of bike rental increase. A machine learning algorithm, Multiple Linear Regression has been used for this project.
 
 
